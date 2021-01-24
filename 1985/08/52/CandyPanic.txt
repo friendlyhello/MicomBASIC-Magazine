@@ -47,9 +47,9 @@
 470 LET CURSOR=9,16:PRINT "PUSH[SPACE]KEY":IF INKEY$<>" " THEN GOTO 470
 480 GOTO 80
 490 FOR I=1 TO 17:LET CURSOR=I:PRINT SPC$(32);:NEXT I:RETURN
-500 REM -------------------------
-510 REM *   PHOCK'N PART 1      *
+500 REM --------------------------
+510 REM *     PHOCK'N PART 1     *
 520 REM *  キャンティ－  パニック	 *
-530 REM *           VER1.1      *
-540 REM *  1985.4.28 BY.M.H.    *
-550 REM -------------------------
+530 REM *           VER1.1       *
+540 REM *  1985.4.28 BY.M.H.     *
+550 REM --------------------------
