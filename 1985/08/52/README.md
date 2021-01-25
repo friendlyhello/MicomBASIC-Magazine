@@ -1,8 +1,8 @@
 
 # Candy Panic
-🖳 **Hitachi Basic Master Jr.
+🖳 **Hitachi Basic Master Jr.**
 
-Creator**: Honda Minoru
+**Creator**: Honda Minoru
 
 
 **JP Game Description:**
