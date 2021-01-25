@@ -1,6 +1,6 @@
 
-#Candy Panic#
-###Hitachi Basic Master Jr.###
+# Candy Panic
+### Hitachi Basic Master Jr.
 **Written by: Honda Minoru**
 
 JP Game Description:
