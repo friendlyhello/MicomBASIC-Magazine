@@ -3,6 +3,8 @@
 ### Hitachi Basic Master Jr.
 **Written by: Honda Minoru**
 
+
+
 **JP Game Description:**
 
 ポッ君を，で左右に動かして，空から降ってく 
@@ -10,6 +12,8 @@
 るキャンディ (φ0</0，それぞれ10-40点)を，受 けとめてください。三連石 (- )にぶつかると , アウトです。
 
 下に表示されている ， タイム・ゲージ なくなると
+
+
 
 **EN Translation:**
 
