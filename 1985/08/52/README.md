@@ -1,8 +1,7 @@
 
 # Candy Panic
-### Hitachi Basic Master Jr.
-**Written by: Honda Minoru**
-
+🖳**Hitachi Basic Master Jr.
+Creator: Honda Minoru**
 
 
 **JP Game Description:**
@@ -12,7 +11,6 @@
 るキャンディ (φ0</0，それぞれ10-40点)を，受 けとめてください。三連石 (- )にぶつかると , アウトです。
 
 下に表示されている ， タイム・ゲージ なくなると
-
 
 
 **EN Translation:**
